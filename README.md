@@ -6,7 +6,7 @@
 </p>
 
 <div align="center">
-  <img src="[https://your-image-link-here.png](https://media1.tenor.com/m/NXYXZzFM_Q0AAAAC/boa-hancock.gif)" alt="Header Image" style="width: 100%; height: auto; border-radius: 8px;"/>
+  <img src="https://media1.tenor.com/m/NXYXZzFM_Q0AAAAC/boa-hancock.gif" alt="Header Image" style="width: 100%; height: auto; border-radius: 8px;"/>
 </div>
 
 ---
@@ -19,8 +19,9 @@ I’m an aspiring IT professional with a passion for software development and UI
 - 👯 Collaborating on **Software development, UI/UX design, and web systems**
 - 🤝 Seeking help for **Enhancing AI-powered features in websites & mobile apps**
 - 💬 Ask me about **C#, WinForms, HTML, CSS, UI/UX design, and more**
-- 📫 Reach me via **[Email](mailto:arnie.delavictoria09@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/arnie-dela-victoria-582a62284/)
-- 📄 [Download my resume here!]([https://drive.google.com/file/d/your-file-id/view?usp=sharing](https://drive.google.com/file/d/1JJ6kXTXZ3G5wPXPSnc0taRaefeWIrVxZ/view?usp=sharing))
+- 📫 Reach me via **[Email](mailto:arnie.delavictoria09@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/arnie-dela-victoria-582a62284/) | [Portfolio](https://boahankokku.github.io/Arnie/)\
+- 📄 [Download my resume here](https://drive.google.com/file/d/1JJ6kXTXZ3G5wPXPSnc0taRaefeWIrVxZ/view?usp=sharing)
+
 
 
 ---
