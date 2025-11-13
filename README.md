@@ -71,11 +71,3 @@ I’m an aspiring IT professional with a passion for software development and UI
   <a href="https://dribbble.com/arnieeeee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dribbble.com/arnieeeee" height="30" width="40" /></a>
 </p>
 
----
-
-### Support:
-<p align="center">
-  <a href="https://ko-fi.com/boaaa"> 
-    <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Ko-Fi Support" />
-  </a>
-</p>
