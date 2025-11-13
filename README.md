@@ -19,7 +19,7 @@ I’m an aspiring IT professional with a passion for software development and UI
 - 👯 Collaborating on **Software development, UI/UX design, and web systems**
 - 🤝 Seeking help for **Enhancing AI-powered features in websites & mobile apps**
 - 💬 Ask me about **C#, WinForms, HTML, CSS, UI/UX design, and more**
-- 📫 Reach me via **[Email](mailto:arnie.delavictoria09@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/arnie-dela-victoria-582a62284/) | [Portfolio](https://boahankokku.github.io/Arnie/)\
+- 📫 Reach me via **[Email](mailto:arnie.delavictoria09@gmail.com)** | [LinkedIn](https://www.linkedin.com/in/arnie-dela-victoria-582a62284/) | [Portfolio](https://boahankokku.github.io/Arnie/)
 - 📄 [Download my resume here](https://drive.google.com/file/d/1JJ6kXTXZ3G5wPXPSnc0taRaefeWIrVxZ/view?usp=sharing)
 
 
